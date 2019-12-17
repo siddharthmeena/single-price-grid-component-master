@@ -1,0 +1,89 @@
+body{ 
+    text-align: left;
+    font-family: 'Karla', sans-serif;
+    padding: 10% 15% 10px;
+}
+h2{
+    color: hsl(179, 62%, 43%);
+    margin-bottom: 10px 0px 10px;
+    padding: 25px;
+
+}
+.first{ 
+padding: 30px 50px 30px;
+background-color: white;
+
+}
+.one{
+    margin: 30px 0px 0px;
+    color: hsl(71, 73%, 54%);
+    padding: 25px 25px 0px;
+
+}
+.sec{
+padding: 30px 50px 30px;
+background-color: white;
+background-color: hsl(179, 54%, 49%);
+
+
+}
+.two{
+    color: white;
+
+}
+.third{
+padding: 30px 50px 30px;
+background-color: white;
+background-color: rgb(131, 205, 235);
+
+
+}
+p{
+    color: hsl(218, 22%, 67%);
+    width: 65%;
+    margin: 0px 0px 0px;
+    padding: 25px;
+    line-height: 1.5;
+}
+.para{
+    color: hsl(204, 43%, 93%);
+    padding-left: 0px;
+    width: 16rem;
+   
+}
+.myButton {
+    margin: auto auto auto;
+	box-shadow:inset 0px 1px 0px 0px #9acc85;
+	background:linear-gradient(to bottom, #96d91a 5%, #98d91f 100%);
+	background-color:#96d91a;
+	border:1px solid #a1cf21;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Karla', sans-serif;
+	font-size:20px;
+	font-weight: lighter;
+	padding:15px 100px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #98d91f 5%, #96d91a 100%);
+	background-color:#98d91f;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+span{
+    font-size: 25px;
+    color: white;
+    margin-right: 5px;
+}
+footer{
+    text-align: center;
+}
+.attribution{
+    text-align: center;
+    margin: auto;
+}
+
